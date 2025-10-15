@@ -7,8 +7,8 @@ An intelligent recruitment system that automates resume screening, candidate eva
 - AI-Powered Resume Analysis - Automatically evaluates resumes using Google's Gemini AI
 - Smart Candidate Matching - Matches candidates to job descriptions using semantic search
 - Automated Communication - Sends personalized emails to selected/rejected candidates
-- **Interview Scheduling - Integrates with Calendly for seamless interview booking
-- **Data-Driven Insights - Exports candidate data to CSV for further analysis
+- Interview Scheduling - Integrates with Calendly for seamless interview booking
+- Data-Driven Insights - Exports candidate data to CSV for further analysis
 
 #Tech Stack
 
