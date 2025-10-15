@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ai-engineer-001",
+    "job_title": "AI Engineer",
+    "job_description": "We are seeking a talented AI Engineer to join our innovative team and help build cutting-edge artificial intelligence solutions. The ideal candidate will have strong experience in machine learning, deep learning, and AI system development. You will be responsible for designing, developing, and deploying AI models and systems that solve complex business problems. This role offers the opportunity to work with state-of-the-art technologies and contribute to groundbreaking AI applications that impact millions of users. Key responsibilities include developing and training machine learning models, implementing AI algorithms, optimizing model performance, collaborating with cross-functional teams, and staying current with the latest AI research and technologies.",
+    "required_skills": "Python, Machine Learning, TensorFlow, PyTorch, Pandas, NumPy, Docker, Kubernetes, SQL, API Development",
+    "experience_required": "mid",
+    "is_active": true,
+    "created_at": "2025-10-15T19:00:00.000000"
+  },
+  {
+    "id": "full-stack-developer-002",
+    "job_title": "Full Stack Developer",
+    "job_description": "We are seeking a talented Full Stack Developer to join our innovative team and help build cutting-edge artificial intelligence solutions. The ideal candidate will have strong experience in web development, machine learning, deep learning, and AI system development. You will be responsible for designing, developing, and deploying full-stack applications with AI capabilities that solve complex business problems. This role offers the opportunity to work with state-of-the-art technologies and contribute to groundbreaking AI applications that impact millions of users. Key responsibilities include developing frontend and backend applications, integrating AI models, implementing APIs, optimizing application performance, collaborating with cross-functional teams, and staying current with the latest web development and AI technologies.",
+    "required_skills": "React, MongoDB, Node JS, API Development, Machine Learning, Deep Learning, AI System Development, SQL, Python Scripting",
+    "experience_required": "mid",
+    "is_active": true,
+    "created_at": "2025-10-15T19:00:00.000000"
+  }
+]
