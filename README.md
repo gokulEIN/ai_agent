@@ -15,6 +15,6 @@ An intelligent recruitment system that automates resume screening, candidate eva
 - Backend : Python 3.10+, Flask
 - AI/ML : Google Gemini, HuggingFace Transformers, LangChain, FAISS
 - Frontend : HTML5, CSS3, JavaScript, Bootstrap
-- Data Processing : Pandas, PyPDF2, python-docx
+- Data Processing : PyPDF2, python-docx
 - Email : SMTP (Gmail)
 - Scheduling : Calendly Integration
